@@ -2,11 +2,11 @@
 Este é um *parágrafo* com algumas **formatações**
 ## Lista de Tarefas
 
--[x] Aprender sintaxe básica
+- [x] Aprender sintaxe básica
 
-[] Praticer mais
+- [ ] Praticer mais
 
-[] Criar documento complexos 
+- [ ] Criar documento complexos 
 
 > Este é um bloco de citação
 > Muito útil para destacar informações
